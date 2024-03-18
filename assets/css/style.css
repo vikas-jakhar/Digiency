@@ -491,7 +491,7 @@ ul {
     width: 100%;
 }
 
-.srcoll-icon {
+.s-icon {
     bottom: 5%;
     right: 8%;
     height: 58px;
@@ -504,11 +504,11 @@ ul {
     display: none;
 }
 
-.srcoll-icon:hover {
+.s-icon:hover {
     background-color: #FFFFFF;
 }
 
-.srcoll-icon:hover svg path {
+.s-icon:hover svg path {
     fill: #FF5300;
 }
 
