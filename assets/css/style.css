@@ -468,7 +468,7 @@ ul {
 
 .i-icon:hover {
     box-shadow: 0 0 30px #FF5300;
-    transform: translateY(8px);
+    transform: translateY(-8px);
 }
 
 .i-icon:hover svg path {
